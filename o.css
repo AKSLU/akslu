@@ -1,0 +1,44 @@
+body{
+   background-color: black;
+   color: white;
+   font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  line-height: 1.6;
+  text-align: justify;
+
+  background-color: #141414;
+  margin: 40px;
+}
+.chapter{
+    text-align: center;
+    color: white;
+}
+
+
+
+form{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.qwer{
+    display: flex;
+    flex-direction: column;
+}
+.input_text{
+    margin: 20px;
+}
+.button{
+    margin-top: 20px;
+    width: 200px;
+    height: 60px;
+    background-color: rgb(127, 127, 127);
+    color: rgb(255, 255, 255);
+    border: 0;
+    
+}
+form{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}

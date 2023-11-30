@@ -1,0 +1,303 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+.page{
+    background-color: rgb(0, 0, 0);
+    height: 200vh;
+    background-repeat: no-repeat;
+}
+.catalog{
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.new_season{
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.new{
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.rev{
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+h1{
+    margin: 100px 0 50px 0;
+    font-size: 50px;
+}
+.glavnaya{
+    height:150vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.qwerty{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block1{
+    text-align: center;
+    margin-right: 10vw;
+    width: 40%;
+}
+.tokyo{
+    width: 450px;
+    height: 600px;
+}
+h1{color: white;
+font-size: 20px;}
+
+header{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.nav_item{
+    color: white;
+    text-decoration-line: none;
+    margin-right: 40px;
+    z-index: 1;
+}
+.logo{
+   position: relative;
+    
+    color: white;
+}
+.logomg{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    top: -50px;
+    z-index: -1;
+}
+.akslu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.q1{
+   
+    width: 30%;
+    color: white;
+    text-align: justify;
+}
+.q1_second{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.image{
+    width: 250px;
+   
+    
+}
+.abc{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+
+}
+.a1{
+    text-align: justify;
+    width: 400px;
+    color: white;
+}
+.a1_second{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.container{
+    width: 45%;
+    margin-right: 30px;
+    color: white;
+}
+.h1{
+    font-size: 30px;
+    color: white;
+}
+.good{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+.w1{
+    text-align: justify;
+    width: 400px;
+    color: white;
+}
+.w1_second{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.c1{
+    text-align: justify;
+    width: 400px;
+    color: white;
+}
+.c1_second{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.revenge{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.revengers{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.r1{
+    width: 400px;
+    color: white;
+}
+.r1_second{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+
+
+.lookism{
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+ 
+    background-repeat: no-repeat;
+   
+}
+.look{
+    
+    color: white;
+}
+h2{width: 400px;
+    color: white;
+}
+h3{
+    width: 400px;
+    color: white;}
+p{
+    width: 400px;
+    color: white;
+}
+.nav2{
+    display: flex;
+    flex-direction: column;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+
+.villain{
+    background-repeat: no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.di{
+    height: 85vh;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.Readbook{
+     
+    width: 400px;
+    height: 300px;
+    
+    
+}
+.collections{
+    
+    display: flex;
+   
+   
+    
+}
+
+.the{
+    height:290vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.cool{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.very{
+   
+    width: 30%;
+    color: white;
+    text-align: justify;
+}
+.q1_second{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h1{
+    color: white;
+}
+.image{
+    width: 200px;
+   
+    
+}
+.very_second{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.novela{
+    height:270vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.red{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.sleep{
+   
+    width: 30%;
+    color: white;
+    text-align: justify;
+}
+.sleep_second{
+    margin-left: 50px;
+    margin-right: 50px;
+}
